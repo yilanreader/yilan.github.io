@@ -1,17 +1,11 @@
 ---
 layout: page
-title: "About"
-description: "Hey, this is Hux."
+title: "关于"
+description: "《晚秋》是金泰勇执导的一部电影，由汤唯、玄彬主演，根据李满熙导演1966年的同名电影改编而成，影片以美国西雅图为背景，讲述两名男女在异国他乡的爱情故事。影片于2011年2月17日在韩国上映，2012年3月23日，在中国内地公映。"
 header-img: "img/about-bg.jpg"
 ---
 
-<!-- Language Selector -->
-<select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英语 English </option>
-</select>
 
-<!-- Chinese Version -->
 <div class="zh">
     <blockquote>
         写写代码，做做设计，看看产品。
@@ -29,79 +23,7 @@ header-img: "img/about-bg.jpg"
 
     <p>人类，唱唱通俗跳跳 HipHop ，也爱好打球游泳、摄影<del>把妹</del>，没事泡泡社交网络，刷刷微博知乎</p>
 
-    <p>哦对了，我叫<b>黄玄</b>
-
-    <hr>
-    附上认真版的简历:
-    <ul class="active-list">
-        <li><a href="{{site.baseUrl}}/attach/2016_Hux_DEV_en.pdf"> 2016_Hux_DEV_en </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2016_Hux_PD_en.pdf"> 2016_Hux_PD_en </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2015_Hux_SDE_cn.pdf"> 2015_Hux_SDE_cn </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2015_Hux_UX & PD_cn.pdf"> 2015_Hux_UX & PD_cn </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2015_Hux_UX & PD_en.pdf"> 2015_Hux_UX & PD_en </a></li>
-    </ul>
-
-    一些期待成为的角色:
-    <ul>
-        <li> UX Unicorn </li>
-        <li> Product Engineer </li>
-        <li> Creative Technologist </li>
-        <li> End to End JavaScript Engineer</li>
-        <li> "Full Stack" Engineer/Designer </li>
-    </ul>
 </div>
-
-<!-- English Version -->
-<div class="en">
-    <blockquote>
-        Designer or Engineer, things in between.
-    </blockquote>
-
-    <p>Student, major in New Media Art of <a href="https://en.wikipedia.org/wiki/Communication_University_of_China">Communication University of China</a>, which is a interdisciplinary subject of technology and art, and now Senior.</p>
-
-    <p>Programmer, JavaScript Engineer Intern of <a href="http://m.wepiao.com/index.html">Wechat Movie</a>, previous worked in <a href="http://alitrip.com" target="_blank">Alibaba Trip</a> as Front End Engineer for one year, looking for opportunities abroad.</p>
-
-    <p>Designer, offered as UI/UX Designer Intern by Alibaba Group, Microsoft Bing etc. Experienced in Motion Graphic Design, also familer with Layout and Typography.</p>
-
-    <p>Product Design and Program Management is also attractive and comfortable to me.</p>
-
-    <p>My Chinese name is <b>Huang Xuan</b>, you can call me English name <b>Hux</b> for short.</p>
-
-    <hr>
-    Interested in more details? Just checkout my resumes:
-    <ul class="active-list">
-        <li><a href="{{site.baseUrl}}/attach/2016_Hux_DEV_en.pdf"> 2016_Hux_DEV_en </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2016_Hux_PD_en.pdf"> 2016_Hux_PD_en </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2015_Hux_UX & PD_en.pdf"> 2015_Hux_UX & PD_en </a></li>
-    </ul>
-
-    My dream position include:
-    <ul>
-        <li> UX Unicorn </li>
-        <li> Product Engineer </li>
-        <li> Creative Technologist </li>
-        <li> End to End JavaScript Engineer</li>
-        <li> "Full Stack" Engineer/Designer </li>
-    </ul>
-</div>
-
-
-<!-- Handle Language Change -->
-<script type="text/javascript">
-    var $zh = document.querySelector(".zh");
-    var $en = document.querySelector(".en");
-    function onLanChange(index){
-        if(index == 0){
-            $zh.style.display = "block";
-            $en.style.display = "none";
-        }else{
-            $en.style.display = "block";
-            $zh.style.display = "none";
-        }
-    }
-    onLanChange(0);
-</script>
-
 
 {% if site.useDuoshuo %}
 <!-- 多说评论框 start -->
@@ -112,15 +34,15 @@ header-img: "img/about-bg.jpg"
 
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
-var duoshuoQuery = {short_name:"huxblog"};
-    (function() {
-        var ds = document.createElement('script');
-        ds.type = 'text/javascript';ds.async = true;
-        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-        ds.charset = 'UTF-8';
-        (document.getElementsByTagName('head')[0]
-         || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();
+	var duoshuoQuery = {short_name:"hule01234"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
 </script>
 <!-- 多说公共JS代码 end -->
 {% endif %}

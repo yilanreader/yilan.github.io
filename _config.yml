@@ -1,19 +1,19 @@
 # Site settings
-title: Hux Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "一生想做浪漫极客。@Hux黄玄的博客主页、个人网站, 知乎@黄玄／阿里@鬼栈／Front-End／UX Unicorn／Web &amp; Mobile Lover／Motion Design "
+title: 晚秋
+header-img: img/home-bg1.jpg
+email: imhule@qq.com
+description: "《晚秋》是金泰勇执导的一部电影，由汤唯、玄彬主演，根据李满熙导演1966年的同名电影改编而成，影片以美国西雅图为背景，讲述两名男女在异国他乡的爱情故事。"
 baseurl: ""
-url: "http://huxpro.github.io"
+url: "http://721687.github.io/"
 
 
 # SNS settings
-RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+RSS: true
+weibo_username:     2709383993
+zhihu_username:     胡乐
+github_username:    721687
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 # Build settings
