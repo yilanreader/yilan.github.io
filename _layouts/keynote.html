@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<!-- Image to hack wechat -->
-<!-- <img src="/img/icon_wechat.png" width="0" height="0"> -->
-<!-- <img src="{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" width="0" height="0"> -->
-
 <!-- Post Header -->
 <style type="text/css">
     header.intro-header{
@@ -62,7 +58,7 @@ layout: default
                     style="text-align: right"
                     data-thread-key="{{page.id}}" data-title="{{page.title}}"
                     data-images="{{ site.url }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}"
-                    data-content="{{ content | strip_html | truncate:80 }} | Hux Blog，@Hux黄玄 的个人博客"
+                    data-content="{{ content | strip_html | truncate:80 }} | 一览"
                     data-url="{{site.url}}{{page.url}}">
                     <div class="ds-share-inline">
                       <ul  class="ds-share-icons-16">
@@ -76,7 +72,7 @@ layout: default
                     </div>
                 <hr>
                 </div>
-                <!-- 多少 Share end-->
+                <!-- 多说 Share end-->
                 {% endif %}
 
 
@@ -147,15 +143,15 @@ layout: default
 {% if site.useDuoshuo %}
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
-	var duoshuoQuery = {short_name:"hule01234"};
-	(function() {
-		var ds = document.createElement('script');
-		ds.type = 'text/javascript';ds.async = true;
-		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-		ds.charset = 'UTF-8';
-		(document.getElementsByTagName('head')[0] 
-		 || document.getElementsByTagName('body')[0]).appendChild(ds);
-	})();
+var duoshuoQuery = {short_name:"yilan"};
+(function() {
+	var ds = document.createElement('script');
+	ds.type = 'text/javascript';ds.async = true;
+	ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+	ds.charset = 'UTF-8';
+	(document.getElementsByTagName('head')[0] 
+	 || document.getElementsByTagName('body')[0]).appendChild(ds);
+})();
 </script>
 <!-- 多说公共JS代码 end -->
 {% endif %}

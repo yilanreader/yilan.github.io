@@ -63,14 +63,14 @@ layout: default
                             {% if tag[1].size > 1 %}
                 				<a href="/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">
                                     {{ tag[0] }}
-                                </a>
+                            </a>
                             {% endif %}
         				{% endfor %}
         			</div>
                 </section>
                 <!-- Short About -->
                 <section class="visible-md visible-lg">
-                    <hr><h5><a href="/about/">ABOUT ME</a></h5>
+                    <hr><h5><a href="/about/">ABOUT</a></h5>
                     <div class="short-about">
                         {% if site.sidebar-avatar %}
                             <img src="{{site.sidebar-avatar}}" />
@@ -143,6 +143,21 @@ layout: default
                         </ul>
                     </div>
                 </section>
+                <!-- 下载 -->
+                <!--<section >
+                    <hr class="hidden-sm hidden-xs">
+                    <h5><a href="javascript:;">App</a></h5>
+                    <div class="text-center">
+                    		<div>
+                    			<img src="/img/YilanAndroid.png"/><br />
+                    			<span>Andoroid</span>
+                    		</p>
+        					<div>
+        						<img src="/img/YilanIOS.png"/><br />
+        						<span>IOS</span>
+        					</div>
+        				</div>
+                </section>-->
                 <!-- Friends Blog -->
                 {% if site.friends %}
                 <hr>

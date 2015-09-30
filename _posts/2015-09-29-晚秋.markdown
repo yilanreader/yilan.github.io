@@ -4,7 +4,6 @@ title:      "晚秋"
 subtitle:   "讲述两名男女在异国他乡的爱情故事"
 date:       2015-09-29
 author:     "晚秋"
-header-img: "img/home-bg1.jpg"
 tags:
     - 爱情故事
     - 电影
