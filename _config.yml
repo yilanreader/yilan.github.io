@@ -1,19 +1,19 @@
 # Site settings
 title: 一览
 header-img: img/home-bg.jpg
-email: gitlab@forensix.cn
+email: cloud@forensix.cn
 description: "您的个性化阅读专家"
 baseurl: ""
-url: "http://yilan.github.io/"
+url: "http://yilanreader.github.io"
 
 
 # SNS settings
 RSS: true
-#weibo_username:     
-#zhihu_username:     
-#github_username:    
-#twitter_username:  
-#facebook_username:  
+#weibo_username:
+#zhihu_username:
+#github_username:
+#twitter_username:
+#facebook_username:
 
 
 # Build settings
@@ -55,6 +55,6 @@ sidebar-avatar: /img/app_logo_128.png     # use absolute URL.
 friends: [
     {
         title: "一览",
-        href: "http://yilan.io/"
+        href: "http://www.yilan.io"
     }
 ]
