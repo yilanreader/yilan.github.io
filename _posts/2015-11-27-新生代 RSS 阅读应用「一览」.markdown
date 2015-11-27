@@ -13,7 +13,10 @@ tags:
 
 后 Google Reader 时代，纵观 RSS 服务，国内可用的基本没有了，而国外的例如 Feedly,TheOldReader 则不时被墙！即使自己架一个 TinytinyRSS 站，也麻烦的不要不要的 凸^-^凸。
 如果您还在使用 RSS 类的订阅资讯服务 ，如果您追求极致/舒适/流畅的阅读体验，那是时候考虑「一览」了。
+
+
 ### 「特性」
+
 > 
 * 适配 iPhone, iPad, Android 以及 PC浏览器，阅读状态多端同步，还可离线下载。
 * 支持 RSS，还可以订阅知乎，微博，微信公众号。
@@ -28,14 +31,14 @@ tags:
 ### 「新手指引」
 点击右上角的头像→新手指引，然后跟着引导可以非常直观的了解「一览」的操作。
 
-![新手指引](../img/1-about-me/guide.png)
+![新手指引](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/guide.png)
 
 ### 「订阅界面」
 为了每位用户都能得到最适合自己的阅读体验，我们在这预设了5种文章的展示模式，方便您针对不同的站点进行不同的设置（这里是针对单个站点的修改）。
 
-![展示模式](../img/1-about-me/show-type.png)
-![文字类型的站点可以切换成列表视图，方便快速浏览](../img/1-about-me/show-list.png)
-![图片类型的站点可以设置为卡片视图，方便图文概览](../img/1-about-me/show-maga.png)
+![展示模式](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/show-type.png)
+![文字类型的站点可以切换成列表视图，方便快速浏览](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/show-list.png)
+![图片类型的站点可以设置为卡片视图，方便图文概览](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/show-maga.png)
 
 上方是当前阅读站点的分类路径和文章模式，以及该站点的订阅人数。
 
@@ -43,7 +46,7 @@ tags:
 
 默认为卡片样式，如果要统一修改为另一个样式，可以点击右上角的头像→账号设置，在偏好设置里更改。
 
-![展示模式统一修改](../img/1-about-me/show-set.png)
+![展示模式统一修改](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/show-set.png)
 
 在偏好设置里，您还可以“修改文章的默认查看方式，是否显示未读数目，是否隐藏未读数目为零的站点，以及订阅新站点时是否不弹窗而直接使用推荐的分组”。
 
@@ -51,12 +54,12 @@ tags:
 
 此外，我们还提供了换肤功能，一共六种颜色。效果如下图：
 
-![6 种皮肤](../img/1-about-me/theme.png)
+![6 种皮肤](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/theme.png)
 
 ### 「订阅列表」
 “我的订阅”界面的左侧是订阅列表。
 
-![订阅列表](../img/1-about-me/list-sub.png)
+![订阅列表](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/list-sub.png)
 
 上面的搜索框，可以查找你订阅了的站点。
 
@@ -70,22 +73,22 @@ tags:
 
 右侧的“齿轮”点击它可以对下方的订阅列表进行“取消订阅、删除分组、重命名分组、拖动排序”等，完成后点击“完成”按钮。
 
-![订阅列表管理](../img/1-about-me/list-sub-mana.png)
+![订阅列表管理](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/list-sub-mana.png)
 
 此外，还可以直接对“分组/站点”点击右键，进行“改名/移动/关注”等更丰富的管理工作。
 
-![订阅列表右键菜单](../img/1-about-me/list-sub-righthand.png)
+![订阅列表右键菜单](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/list-sub-righthand.png)
 
 ### 「搜索框」
 在“我的订阅”界面右上角的搜索框内，可以输入站点的名字、关键词或者URL地址（如“网易”或“163.com”），在列出的结果中点击你喜欢的那个，进入该站点的主页，再点击订阅按钮即可。
 
-![](../img/1-about-me/search.png)
+![](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/search.png)
 
 您还可以选择高级搜索里的 RSS，知乎，微博，微信，或者用户（使用一览的其他用户），再次搜索相关站点。
 ### 「阅读界面」
 进入文章的阅读界面后，您可以点击“右上角的小齿轮”。
 
-![](../img/1-about-me/post(list).png)
+![](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/post(list).png)
 
 在弹出的菜单中，可以增大或缩小字体，提升体验。设置文章自动滚动与滚动速度，方便省心。或者进入全屏模式，沉浸阅读之中。
 
@@ -96,7 +99,7 @@ tags:
 ### 「快捷键」
 作为一款专业的 RSS 阅读器，快捷键也必不可少，下面是其示意图。
 
-![快捷键预览图](../img/1-about-me/hotkey.png)
+![快捷键预览图](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/hotkey.png)
 
 在文章列表界面，按“←/→方向键”或“H/L字符”是选择上一篇/下一篇文章。如果是卡片阅读模式，按“↑/↓方向键”或“J/K字符”是选择上方/下方的卡片（而不是左边/右边的卡片），其他模式下与“←/→方向键”效果一致。按回车键即可查看文章内容。
 
@@ -107,4 +110,4 @@ tags:
 
 如果您有好的意见或需求，可以在一览页面右下角的“意见反馈”里提出，在之后的版本中，我们会更细致地打磨、完善，提供更优质的服务。
 
-![](../img/1-about-me/look.png)
+![](https://raw.githubusercontent.com/yilanreader/yilanreader.github.io/master/img/1-about-me/look.png)
