@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      "新生代 RSS 阅读应用「一览」"
+subtitle:   "关于一览的功能"
+date:       2015-11-27
+author:     "Wizos"
+tags:
+    - RSS
+    - 资讯
+    - 阅读
+---
+
+
 后 Google Reader 时代，纵观 RSS 服务，国内可用的基本没有了，而国外的例如 Feedly,TheOldReader 则不时被墙！即使自己架一个 TinytinyRSS 站，也麻烦的不要不要的 凸^-^凸。
 如果您还在使用 RSS 类的订阅资讯服务 ，如果您追求极致/舒适/流畅的阅读体验，那是时候考虑「一览」了。
 ### 「特性」
