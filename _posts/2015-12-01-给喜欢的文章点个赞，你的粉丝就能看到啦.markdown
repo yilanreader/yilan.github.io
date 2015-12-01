@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "给喜欢的文章点个赞，你的粉丝就能看到啦！"
+title:      "给喜欢的文章点个赞，你的粉丝就能看到啦"
 subtitle:   "新功能"
 date:       2015-12-01
 author:     "Wizos"
