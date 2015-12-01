@@ -2,7 +2,7 @@
 layout:     post
 title:      "新生代 RSS 阅读应用「一览」"
 subtitle:   "关于一览的功能"
-date:       2015-11-27
+date:       2015-12-01
 author:     "Wizos"
 tags:
     - RSS
