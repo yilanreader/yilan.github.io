@@ -2,7 +2,7 @@
 layout:     post
 title:      "新功能「收藏夹 - 断舍离」"
 subtitle:   "新功能"
-date:       2015-12-10
+date:       2015-12-09
 author:     "Wizos"
 tags:
     - 收藏夹
