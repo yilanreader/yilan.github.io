@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "管理订阅的新技能，get！"
+subtitle:   "新功能"
+date:       2016-03-17
+author:     "Wizos"
+tags:
+    - 管理订阅
+    - 新功能
+---
+
+
 ![Banner](/img/5/5-banner.png)
 
 
