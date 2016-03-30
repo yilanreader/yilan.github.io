@@ -1,4 +1,4 @@
-![Banner](/img/test/6-Banner.png)
+![Banner](/img/6/6-Banner.png)
 
 「一览」搜索功能全面升级啦！
 
