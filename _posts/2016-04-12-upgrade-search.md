@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "「一览」全文搜索：更妥善地搜寻资料"
+subtitle:   "搜索功能升级"
+date:       2016-04-12
+author:     "Wizos"
+tags:
+    - 全文搜索
+    - 功能升级
+---
+
+
 ![Banner](/img/6/6-Banner.png)
 
 曾听过这么一句话：“我们若能更妥善地搜寻资料，实在已经改变世界”。
