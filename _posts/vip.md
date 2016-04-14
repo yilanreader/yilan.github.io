@@ -22,7 +22,7 @@
 
 > 不过普通用户受限，目前只能查看到三条结果。
 
-> 详细的使用方法见[搜索指南](https://github.com/yilanreader/yilanreader.github.io/blob/master/_posts/upgrade-search.md)。
+> 详细的使用方法见[搜索指南](https://github.com/yilanreader/yilanreader.github.io/blob/master/_posts/upgrade-search.md)
 
 #### 无广告
 
@@ -35,6 +35,8 @@
 > 许多「爱智求真」的朋友可能都会有或者想要有一款 Kindle 吧。
 
 > 不管你有没有放任它在那积灰，都来吧，亮出你的 Kindle ，好好用一用。
+
+> 详细的使用方法见[推送 Kindle 指南](https://github.com/yilanreader/yilanreader.github.io/blob/master/_posts/push-kindle.md)
 
 
 怎么样？还不快进 [VIP](https://www.yilan.io/vip) 来一个？
