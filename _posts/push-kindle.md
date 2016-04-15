@@ -53,6 +53,7 @@
 
 ![ Kindle 高清无码美照](/img/8/8-kindle-photo.png)
 
+![ Kindle 高清无码美照](/img/8/8-kindle.png)
 
 ---
 
