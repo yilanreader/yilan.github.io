@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "推送文章至 Kindle ，享受极致的阅读体验"
+subtitle:   "新功能"
+date:       2016-04-18
+author:     "Wizos"
+tags:
+    - 推送
+    - Kindle
+---
+
+
 ![Banner](/img/8/8-Banner.png)
 
 近日，伴着新款 Kindle 的上市，我们“推送文章至 Kindle ”的服务也踩着节奏上线啦。
