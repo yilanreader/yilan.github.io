@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      "高亮标记，为"
+subtitle:   "新功能"
+date:       2016-05-5
+author:     "Wizos"
+tags:
+    - 推送
+    - Kindle
+---
+
 ![Banner](/img/9/9-Banner.png)
 
 相信很多人在阅读新闻资讯的时候，或多或少都会遇到一些有价值的文章，随手收藏了起来。准备以后回顾，复习。
@@ -12,13 +23,15 @@
 
 使用方法非常简单：选中某段文字，在弹出的菜单中选择想要标记的颜色即可。
 
-![Banner](/img/9/9-highLight-show.gif)
+![演示标记功能](/img/9/9-highLight-show.gif)
 
-目前，共有 5 个颜色以供选择（别问我为什么不是 7 色，葫芦娃么？）
+目前，共有 5 个颜色以供选择，如下图所示：
 
-来，秀段花式的。
+![多彩标记](/img/9/9-highLight-show-colors.png)
 
-![Banner](/img/9/9-highLight-show-colors.png)
+![多彩标记](/img/9/9-highLight-show-colors-2.png)
+
+![多彩标记](/img/9/9-highLight-show-colors-3.png)
 
 标记的文字，被再次选择后，可以部分或者全部移除这些标记。
 
@@ -30,11 +43,11 @@
 
 友情提示一下：如果取消收藏，所有的标记都会被移除。
 
-![Banner](/img/9/9-favorite-highLight.png)
+![已标记收藏夹](/img/9/9-favorite-highLight.png)
 
 在文章列表内，可以看到这些文章的右上角以“已标记”作为区分，并且下方的摘要也会被替换成标记的内容。
 
-![Banner](/img/9/9-highLight-article.png)
+![已标记文章项](/img/9/9-highLight-article.png)
 
 有了这个功能，再也不怕看了后面忘了前文了耶 ^_^
 
