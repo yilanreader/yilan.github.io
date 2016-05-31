@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Crome 插件查找订阅 RSS"
+title:      "用「一览插件」快速找到 RSS"
 subtitle:   ""
 date:       2016-05-30
 author:     "Wizos"
