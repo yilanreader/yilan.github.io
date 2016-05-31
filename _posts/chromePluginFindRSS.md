@@ -59,7 +59,7 @@ Bingo！快，点它！
 
 目前该插件只支持 chrome 、360 极速浏览器、百度浏览器、猎豹浏览器等等 chrome 内核的浏览器。
 
-![ 支持的浏览器 ](/img/11/111-browser-icon.png)
+![ 支持的浏览器 ](/img/11/11-browser-icon.png)
 
 会“科学上网”的同学可以直接从 [ Chrome 商店 ](https://chrome.google.com/webstore/detail/%E4%B8%80%E8%A7%88/agecgafmmkghenpophjhokennabaanhn?hl=zh-CN) 安装。
 
