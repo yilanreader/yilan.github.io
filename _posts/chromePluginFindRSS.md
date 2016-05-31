@@ -61,11 +61,11 @@ Bingo！快，点它！
 
 ![ 支持的浏览器 ](/img/11/111-browser-icon.png)
 
-会“科学上网”的同学可以直接从 ![ Chrome 商店 ](https://chrome.google.com/webstore/detail/%E4%B8%80%E8%A7%88/agecgafmmkghenpophjhokennabaanhn?hl=zh-CN) 安装。
+会“科学上网”的同学可以直接从 [ Chrome 商店 ](https://chrome.google.com/webstore/detail/%E4%B8%80%E8%A7%88/agecgafmmkghenpophjhokennabaanhn?hl=zh-CN) 安装。
 
 不会“科学上网”，或者无法从 Chrome 商店内安装的：
 
-1.请先下载 ![ Crx 文件 ](http://www.yilan.io/app/extension/yilan_chrome.crx)
+1.请先下载 [ Crx 文件 ](http://www.yilan.io/app/extension/yilan_chrome.crx)
 
 2.再打开浏览器的“扩展程序管理页面” ( 或者直接在浏览器地址栏输入 chrome://extensions/ )
 
