@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "用「一览插件」快速找到 RSS"
-subtitle:   ""
-date:       2016-05-30
+title:      "快速找到RSS源，就靠它啦"
+subtitle:   "「一览」浏览器插件，快速找到 RSS"
+date:       2016-05-31
 author:     "Wizos"
 tags:
     - 账号
