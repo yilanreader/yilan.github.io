@@ -1,6 +1,6 @@
-![Banner](/img/8/8-Banner.png)
 
-还在为寻找好用的Kindle推送服务而苦恼？想要自己搭建推送服务但看到冗长的教程望而却步？当你看到此文，这些都已成为历史！
+
+还在为寻找好用的Kindle推送服务而苦恼？想要自己搭建推送服务但看到冗长的教程望而却步？当你看到此文，这些都已成为历史了！
 
 [一览阅读](www.yilan.io)现已推出免费的推送服务，只需简单几步，就能轻松享受阅读的乐趣！
 
@@ -10,17 +10,15 @@
 
 ![](/img/kindle/2.png)
 
-![](/img/kindle/3.png)
-
 ![](/img/kindle/4.png)
 
 ## 设置三部曲
 
-是不是心动了呢？一起开始设置吧！
+是不是心动了呢？开始动手吧，只需三步！
 
-第一步：[注册](https://www.yilan.io/)一个账号并订阅几个感兴趣的源。跟着引导一步步来就好了，很简单。
+第一步：[注册](https://www.yilan.io/)一个账号并订阅几个感兴趣的源。[发现](http://www.yilan.io/explore/recommend/)里有数万个订阅源，订到手软才好。
 
-第二步：将 no-reply@mail.yilan.io 和 no-reply@mail2.yilan.io 添加到亚马逊账户的[可信任发件人列表](https://www.amazon.cn/mn/dcw/myx.html#/home/settings/payment)中。这步不能省，否则会收不到推送哦。
+第二步：将 no-reply@mail.yilan.io 和 no-reply@mail2.yilan.io 添加到亚马逊账户的[可信任发件人列表](https://www.amazon.cn/mn/dcw/myx.html#/home/settings/payment)中。这步很重要，否则会收不到推送哦。
 
 第三步：打开[Kindle推送设置](http://www.yilan.io/setting/kindle/)，选择设置类型为Kindle，然后填入你的推送邮箱，保存，然后点击“测试推送”，过几分钟就能收到啦！如果需要开启每日投递，把“启用自动推送”选中并保存就可以了。
 
@@ -28,7 +26,7 @@
 
 ![](/img/kindle/setting.png)
 
-OK，是不是很简单呢~
+一切OK了，是不是很简单呢~
 
 ## 推送策略
 
@@ -37,6 +35,8 @@ OK，是不是很简单呢~
 * 周一到周六推送最近一天内更新的未读的文章
 * 周日推送最近一周收藏的文章，以便重温回顾
 
-有什么意见或建议，可以[反馈](http://www.yilan.io/feedback/)给我们哦！最后，祝大家阅读愉快~ ：)
+由于服务器资源限制，只有VIP用户才能推送图片哦，请支持我们吧~
+
+有什么意见或建议，可以[反馈](http://www.yilan.io/feedback/)给我们。最后，祝大家阅读愉快！ ：)
 
 ![ Kindle 高清无码美照](/img/8/8-kindle-photo.png)
